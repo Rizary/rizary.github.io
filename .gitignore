@@ -9,6 +9,7 @@ cabal-dev
 *.chs.h
 *.dyn_o
 *.dyn_hi
+*.copy
 .hpc
 .hsenv
 .cabal-sandbox/
@@ -17,6 +18,7 @@ cabal.sandbox.config
 *.aux
 *.hp
 .stack-work/
+src/
 _cache/
 _site/
 .ghci
